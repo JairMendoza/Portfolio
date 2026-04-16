@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "name": "Jair Mendoza",
+    "role": "Full Stack Developer",
+    "viewProjects": "Ver proyectos",
+    "contact": "Contactar"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "bio1": "Soy un Full Stack Developer apasionado por crear experiencias web modernas, escalables y visualmente impactantes. Me especializo en React, JavaScript (ES6+), y la construcción de arquitecturas robustas tanto en el frontend como en el backend.",
+    "bio2": "Cuando no estoy frente a una terminal de código, puedes encontrarme armando y volando drones FPV, explorando el mundo de la impresión 3D o trabajando en mi próximo proyecto de cosplay. Siempre estoy en búsqueda de nuevos desafíos técnicos y creativos.",
+    "stats": {
+      "projects": "Proyectos",
+      "techs": "Tecnologías"
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "filters": {
+      "all": "Todos",
+      "personal": "Personal",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Fullstack"
+    }
+  },
+  "stack": {
+    "title": "Stack Tecnológico",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "devops": "DevOps",
+    "tools": "Herramientas"
+  },
+  "hobbies": {
+    "title": "Hardware & Hobbies",
+    "description": "Explorando la tecnología más allá del software."
+  },
+  "contact": {
+    "title": "Hablemos",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    },
+    "whatsapp": "Chat en WhatsApp"
+  },
+  "cta": {
+    "available": "Disponible para proyectos freelance",
+    "call": "Agendar llamada"
+  }
+}
